@@ -43,8 +43,8 @@ public :
 	CircleQueue(int iSize);
 	int       GetCircleQueueLength();
 	bool      AddData(AnyData data);
-	bool      AllDataLarger(AnyData data, bool (* comparePf)(AnyData d1, AnyData d2));  //循环队列中所有的数大于data
-	bool      AllDataSmaller(AnyData data, bool (* comparePf)(AnyData d1, AnyData d2)); //循环队列中所有的数小于dada
+	bool      AllDataLarger(AnyData data, bool (* comparePf)(AnyData d1, AnyData d2));  //All data in this queue are larger than data
+	bool      AllDataSmaller(AnyData data, bool (* comparePf)(AnyData d1, AnyData d2)); //All data in this queue are smaller than dada
 	bool      DelData();
 	bool      FullQueue();
 	bool      GetInstanceStatus();
