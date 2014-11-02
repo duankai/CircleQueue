@@ -1,16 +1,16 @@
 /////////////////////////////////////////////////////////////////////////
-//								       //
-//								       //
+//																	   //
+//																	   //
 // COPYRIGHT NOTICE                                                    //
 // Copyright (c) 2014                                                  //
 //                                                                     //
 // @File Name:     CircleQueue.h                                       //
-// @File Function: Circle queue for store data 		               //
-//								       //
-// @Version 1.0 						       //
-// @Author  Duan Kai            				       //
-// @Date    2014-06-25						       //
-//								       //
+// @File Function: Circle queue for store data 		                   //
+//																	   //
+// @Version 1.0 													   //
+// @Author  Duan Kai            									   //
+// @Date    2014-06-25												   //
+//																	   //
 /////////////////////////////////////////////////////////////////////////
 
 #ifndef _CIRCLE_QUEUE_H_
